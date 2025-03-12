@@ -8,7 +8,7 @@ env:
   defconfig: |
     vangogh_user_defconfig
   kernel_patch: |
-    backport-path-umount.patch
+
   kernelsu_patch: |
 
 on:
